@@ -1,0 +1,9 @@
+C:\Users\raine\Desktop\Light BTL Randomizer\SoulsFormats\oo2core_6_win64.dll
+C:\Users\raine\Desktop\Light BTL Randomizer\BTL Editing.exe
+C:\Users\raine\Desktop\Light BTL Randomizer\BTL Editing.dll
+C:\Users\raine\Desktop\Light BTL Randomizer\BTL Editing.deps.json
+C:\Users\raine\Desktop\Light BTL Randomizer\BTL Editing.runtimeconfig.json
+C:\Users\raine\Desktop\Light BTL Randomizer\BTL Editing.pdb
+C:\Users\raine\Desktop\Light BTL Randomizer\SoulsFormats.dll
+C:\Users\raine\Desktop\Light BTL Randomizer\SoulsFormats.pdb
+C:\Users\raine\Desktop\Light BTL Randomizer\SoulsFormats.xml

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BTL Editing", "BTL Editing.csproj", "{A0A0F23F-8CC6-466D-A4A2-E0F8B3F1C811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GParam Editing", "..\GParam Editing\GParam Editing.csproj", "{6A97C355-6FC9-4E87-B706-976F172FDB9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0A0F23F-8CC6-466D-A4A2-E0F8B3F1C811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A0F23F-8CC6-466D-A4A2-E0F8B3F1C811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A0F23F-8CC6-466D-A4A2-E0F8B3F1C811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A0F23F-8CC6-466D-A4A2-E0F8B3F1C811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A97C355-6FC9-4E87-B706-976F172FDB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A97C355-6FC9-4E87-B706-976F172FDB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A97C355-6FC9-4E87-B706-976F172FDB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A97C355-6FC9-4E87-B706-976F172FDB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94F3394C-8611-4F84-AE7F-C00434E4A841}
+	EndGlobalSection
+EndGlobal

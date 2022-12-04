@@ -1,0 +1,22 @@
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\BTL Editing.exe
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\SoulsFormats\oo2core_6_win64.dll
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\BTL Editing.deps.json
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\BTL Editing.runtimeconfig.json
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\BTL Editing.dll
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\BTL Editing.pdb
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\SoulsFormats.dll
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\SoulsFormats.pdb
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\bin\Release\net6.0-windows\SoulsFormats.xml
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.csproj.AssemblyReference.cache
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL_Editing.Form1.resources
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.csproj.GenerateResource.cache
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.AssemblyInfoInputs.cache
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.AssemblyInfo.cs
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.csproj.CoreCompileInputs.cache
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.csproj.CopyComplete
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.dll
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\refint\BTL Editing.dll
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.pdb
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\BTL Editing.genruntimeconfig.cache
+C:\Users\raine\Downloads\BTL-randomizer-main\BTL-randomizer-main\BTL Editing\BTL Editing\obj\Release\net6.0-windows\ref\BTL Editing.dll
